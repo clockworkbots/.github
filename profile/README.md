@@ -16,20 +16,20 @@ Systems for Abbas Tech and DJI Store.Pk, and our own app WatermarkMyID, each wit
 
 ### Tech we work with
 
-![TypeScript](https://img.shields.io/badge/TypeScript-084E27?style=flat-square&logo=typescript&logoColor=A8C56F)
-![Node.js](https://img.shields.io/badge/Node.js-084E27?style=flat-square&logo=nodedotjs&logoColor=A8C56F)
-![Fastify](https://img.shields.io/badge/Fastify-084E27?style=flat-square&logo=fastify&logoColor=A8C56F)
-![Next.js](https://img.shields.io/badge/Next.js-084E27?style=flat-square&logo=nextdotjs&logoColor=A8C56F)
-![React](https://img.shields.io/badge/React-084E27?style=flat-square&logo=react&logoColor=A8C56F)
-![React Native](https://img.shields.io/badge/React%20Native-084E27?style=flat-square&logo=react&logoColor=A8C56F)
-![Flutter](https://img.shields.io/badge/Flutter-084E27?style=flat-square&logo=flutter&logoColor=A8C56F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-084E27?style=flat-square&logo=postgresql&logoColor=A8C56F)
-![MongoDB](https://img.shields.io/badge/MongoDB-084E27?style=flat-square&logo=mongodb&logoColor=A8C56F)
-![Redis](https://img.shields.io/badge/Redis-084E27?style=flat-square&logo=redis&logoColor=A8C56F)
-![BullMQ](https://img.shields.io/badge/BullMQ-084E27?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-084E27?style=flat-square&logo=docker&logoColor=A8C56F)
-![AWS](https://img.shields.io/badge/AWS-084E27?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-084E27?style=flat-square&logo=claude&logoColor=A8C56F)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E4533?style=flat-square&logo=typescript&logoColor=BFD265)
+![Node.js](https://img.shields.io/badge/Node.js-1E4533?style=flat-square&logo=nodedotjs&logoColor=BFD265)
+![Fastify](https://img.shields.io/badge/Fastify-1E4533?style=flat-square&logo=fastify&logoColor=BFD265)
+![Next.js](https://img.shields.io/badge/Next.js-1E4533?style=flat-square&logo=nextdotjs&logoColor=BFD265)
+![React](https://img.shields.io/badge/React-1E4533?style=flat-square&logo=react&logoColor=BFD265)
+![React Native](https://img.shields.io/badge/React%20Native-1E4533?style=flat-square&logo=react&logoColor=BFD265)
+![Flutter](https://img.shields.io/badge/Flutter-1E4533?style=flat-square&logo=flutter&logoColor=BFD265)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E4533?style=flat-square&logo=postgresql&logoColor=BFD265)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E4533?style=flat-square&logo=mongodb&logoColor=BFD265)
+![Redis](https://img.shields.io/badge/Redis-1E4533?style=flat-square&logo=redis&logoColor=BFD265)
+![BullMQ](https://img.shields.io/badge/BullMQ-1E4533?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-1E4533?style=flat-square&logo=docker&logoColor=BFD265)
+![AWS](https://img.shields.io/badge/AWS-1E4533?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-1E4533?style=flat-square&logo=claude&logoColor=BFD265)
 
 ### Get in touch
 
